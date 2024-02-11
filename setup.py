@@ -25,7 +25,7 @@ setup(
     name='CSC-600-Lab1-CurrentTimeWebApp',
     version='1.0.2',
     author_email='mendrys1@my.canisius.edu',
-    author='Anthony',
+    author='Anthony ',
     packages=find_packages(
         where='src',
     ),
