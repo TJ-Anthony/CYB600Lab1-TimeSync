@@ -1,9 +1,9 @@
 # CYB600Lab1-TimeSync
 
-After Cloning through git clone: 
-(IN TERMINAL)
+<H2>After Cloning through git clone: </H2>
+<p>(IN TERMINAL)</p>
 
-STEP 1: cd CYB600Lab1-TimeSync
+<P>STEP 1: cd CYB600Lab1-TimeSync</P>
 STEP 2: pip install -r requirements.txt
 STEP 3: cd src
 STEP 4: cd csc_cyb600_TSL1
