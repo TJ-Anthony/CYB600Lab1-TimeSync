@@ -29,7 +29,7 @@ setup(
     packages=find_packages(
         where='src',
     ),
-    #scripts=['scripts/say-hello-cyb600'],
+    scripts=['scripts/webapp-timesync'],
     package_dir={"": "src"},
     license='Apache License Version 2.0',
     cmdclass={'install': OverrideInstall}
