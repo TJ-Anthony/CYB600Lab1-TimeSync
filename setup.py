@@ -22,14 +22,14 @@ class OverrideInstall(install):
                 os.chmod(filepath, mode)
 
 setup(
-    name='csc_cyb600_jmdv',
-    version='1.0.3',
-    author_email='delveccj@canisius.edu',
-    author='Justin Del Vecchio',
+    name='CSC-600-Lab1-CurrentTimeWebApp',
+    version='1.0.2',
+    author_email='mendrys1@my.canisius.edu',
+    author='Anthony',
     packages=find_packages(
         where='src',
     ),
-    scripts=['scripts/say-hello-cyb600'],
+    #scripts=['scripts/say-hello-cyb600'],
     package_dir={"": "src"},
     license='Apache License Version 2.0',
     cmdclass={'install': OverrideInstall}
