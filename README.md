@@ -2,6 +2,7 @@
 
 After Cloning through git clone: 
 (IN TERMINAL)
+
 STEP 1: cd CYB600Lab1-TimeSync
 STEP 2: pip install -r requirements.txt
 STEP 3: cd src
