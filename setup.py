@@ -23,7 +23,7 @@ class OverrideInstall(install):
 
 setup(
     name='CSC-600-Lab1-CurrentTimeWebApp',
-    version='1.0.3',
+    version='1.0.4',
     author_email='mendrys1@my.canisius.edu',
     author='Anthony ',
     packages=find_packages(
