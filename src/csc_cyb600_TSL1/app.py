@@ -2,6 +2,7 @@ from flask import Flask
 import datetime
 
 def create_app():
+    print("In create app")
     app = Flask(__name__)
 
     @app.route('/')
@@ -11,7 +12,13 @@ def create_app():
 
     return app
 
-if __name__ == '__main__':
+def main():
+    print("Creating Flask App")
     flask_app = create_app()
-    flask_app.run(debug=True)
+    print("Starting Flask")
+    flask_app.run(debug=True, port=5001)
+    print("Flask started")
+
+if __name__ == '__main__':
+    main()
 #Finshed

@@ -23,12 +23,15 @@ class OverrideInstall(install):
 
 setup(
     name='CSC-600-Lab1-CurrentTimeWebApp',
-    version='1.0.5',
+    version='1.0.8',
     author_email='mendrys1@my.canisius.edu',
-    author='Anthony ',
+    author='Anthony',
     packages=find_packages(
         where='src',
     ),
+    install_requires=[
+        'Flask',
+    ]
     scripts=['scripts/webapp-timesync.py'],
     package_dir={"": "src"},
     license='Apache License Version 2.0',
