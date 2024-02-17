@@ -29,9 +29,9 @@ setup(
     packages=find_packages(
         where='src',
     ),
-    install_requires=[
+    install_requires= [
         'Flask',
-    ]
+    ],
     scripts=['scripts/webapp-timesync.py'],
     package_dir={"": "src"},
     license='Apache License Version 2.0',
