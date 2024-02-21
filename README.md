@@ -12,6 +12,7 @@
 <P>STEP 6: Search for the following:  http://127.0.0.1:5001</P>
 
 <H2>After installing through PYPI:</H2>
+<P>PYPI LINK: [pip install CSC-600-Lab1-CurrentTimeWebApp](https://pypi.org/project/CSC-600-Lab1-CurrentTimeWebApp/)</P>
 (IN TERMINAL)
 <P>webapp-timesync.py</P>
 (IN WEBBROWSER, taken from terminal response)
