@@ -12,5 +12,5 @@
 <P>STEP 6: Search for either of the following: http://127.0.0.1:5000 OR http://10.0.2.15:5000</P>
 
 <H2>After installing through PYPI:</H2>
-
-
+(IN TERMINAL)
+<P>webapp-timesync.py</P>
