@@ -8,9 +8,11 @@
 <P>STEP 3: cd src</P>
 <P>STEP 4: cd csc_cyb600_TSL1</P>
 <P>STEP 5: python3 app.py</P>
-(IN WEBBROWSER)
-<P>STEP 6: Search for either of the following: http://127.0.0.1:5000 OR http://10.0.2.15:5000</P>
+(IN WEBBROWSER, taken from terminal response)
+<P>STEP 6: Search for the following:  http://127.0.0.1:5001</P>
 
 <H2>After installing through PYPI:</H2>
 (IN TERMINAL)
 <P>webapp-timesync.py</P>
+(IN WEBBROWSER, taken from terminal response)
+<P>Search for the following:  http://127.0.0.1:5001</P>
